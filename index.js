@@ -13,7 +13,7 @@ function makeBubble() {
 makeBubble();
 
 
-var timer = 60;
+var timer = 30;
 function runTimer() {
     var timerint = setInterval(function () {
         if (timer > 0) {
